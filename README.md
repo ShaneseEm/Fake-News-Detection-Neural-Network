@@ -26,7 +26,7 @@ The model follows a Sequential architecture:
 - **Model Accuracy**: [Insert your Accuracy from Step 6 here, e.g., 94.2%]
 - **Model Loss**: [Insert your Loss from Step 6 here]
 - **Trained Model**: Available in the `/models/` folder.
-- **Notebook**: View the [Google Colab Notebook](Your_Colab_Link_Here).
+- **Notebook**: View the [Kaggle Notebook](https://www.kaggle.com/code/bethelhemalemayehu/fake-news-detection-nn/edit).
 
 ### Assignment Questions
 * **Architecture**: Feedforward Neural Network (Input -> 128 -> 64 -> Output).
